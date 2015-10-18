@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ronreiter.github.io
+title: Ron Reiter
+tagline: Use the Python, luke
+description: Random rants about start-up life
+paginate: 5
